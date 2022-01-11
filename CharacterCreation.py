@@ -1,6 +1,7 @@
 """ Characters Creation with characters features"""
 
-
+# This class can be used for characters creation and modifications
+# Intended for future use
 
 class CharacterCreation:
 

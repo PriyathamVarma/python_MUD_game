@@ -20,9 +20,10 @@ def castle():
       fileOpen.write(f'player entred info for CONWY')
       print('Conwy, kingdom of great king varmadrof is wide and majestical. \nAHalo, Fail not that never fails its target, Talyn all have magical powers worth weilding.') 
     else:
-      fileOpen.write(f'player entred wrong name')
+      fileOpen.write(f'player entred wrong name for castle')
       print('\033[1;31m We told you to enter the name of castle among the given options. Unfortunately we are still in 1970s and can only develop games with minimum features')  
+      castle()
     fileOpen.close()
-    castle()
+    
 
   

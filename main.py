@@ -1,6 +1,7 @@
 # This is the main python file which starts the game
 # IMPORTS
 
+from typing import ValuesView
 from Game import Game
 
 def CharacterFeatures():
@@ -17,4 +18,7 @@ def start():
     f.close()
     Game(name,kingdom,Strengths)
 
-start()
+
+# if the function is not imported
+if __name__ == "__main__":
+  start()

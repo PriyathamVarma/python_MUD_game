@@ -13,17 +13,19 @@ def Game(name,kingdom,Strengths):
   # If the user starts the game with start
   if start_game == 'START':
 
-    player_play = Play(name,kingdom,Strengths)
+    player_play = Play(name,kingdom,Strengths) # goes to player class
     f = open("game_play.txt", "a")
-    f.write(f'\n{name} started the journey \n')
-    f.close()
+    
 
     castle_1_weapon_selection(name,kingdom,Strengths)# Iterations for other weapon selections are done here
 
     print(f'\033[1;32m {name.upper()} selected {selected_weapons_list[0]} at Aylsham, {selected_weapons_list[1]} at Bodium and {selected_weapons_list[2]} at Conwy to slay the dragon and save the Princess')
-    
+ 
     final_fight = FinalShowDown(name,kingdom,Strengths)
     final_fight.fight()
+    f.close()
+    exit()
+    
 
 
   # If the user exits the game with exit
