@@ -7,6 +7,7 @@ from info import *
 from Characters import *
 from Objects import *
 from Castles import *
+from Castles_Weapons_Selection import *
 
 import unittest
 
@@ -29,3 +30,13 @@ class TestMain(unittest.TestCase):
     # test for objects
     def test_objects(self):
         self.assertTrue(objects) 
+    # test for castle weapons selection
+    def test_castle1(self):
+        self.assertTrue(castle_1_weapon_selection("name","kingdom","Strengths")) 
+    def test_castle2(self):
+        self.assertTrue(castle_2_weapon_selection("name","kingdom","Strengths"))
+    def test_castle3(self):
+        self.assertTrue(castle_3_weapon_selection("name","kingdom","Strengths"))      
+
+
+        
