@@ -1,14 +1,8 @@
-GAME STARTS for varma, Prince of norwich who has valor as his strengths
-varma started the game by entering EXIT
- **** varma exited the game **** 
-
-Player exited the game
-NEW GAME STARTS for prince, Prince of far who has das as his strengths 
-
-prince started the game by entering START
- Player Name:prince 
-Kingdom:far 
- Strengths:das 
+GAME STARTS for dsfsdv, Prince of sdvfsdv who has sdfvgfd as his strengths
+dsfsdv started the game by entering START
+ Player Name:dsfsdv 
+Kingdom:sdvfsdv 
+ Strengths:sdfvgfd 
 
 *****************STORY LINE **************
  ​Diana, Princess of Warkworth, is a beautiful girl with such beauty which could be matched only by Aphrodite.
@@ -20,62 +14,71 @@ Kingdom:far
  But, the princes need to be very careful as they pass each checkpoint and collect each magical object.
  Because only the right combination of magical things can save the princess and fight the dragon, even one mistake in selecting the items will prove to be of no use in battle against the dragon. 
 ******************************
-Player exited the game
-NEW GAME STARTS for hero, Prince of heros kingdom who has valor as his strengths 
-
-hero started the game by entering START
- Player Name:hero 
-Kingdom:heros kingdom 
- Strengths:valor 
-
-*****************STORY LINE **************
- ​Diana, Princess of Warkworth, is a beautiful girl with such beauty which could be matched only by Aphrodite.
- She is sweet and lovely and is loved by everyone in the kingdom. Her father, King Aslan, is so much attached to her.
- One day when the princess is going to bed, an evil dragon, Smaug, attacked the kingdom and abducted her.
- The dragon took her to a dark castle, Tremato​n and locked her up. The dragon wants to kill the princess during the day of the blue moon, which gives the dragon powers to give life to other dragons.
- If this happens then, that will be the end of humanity. To get her daughter back and save the world, King Aslan chooses princes from various kingdoms.
- The task of the princes is to collect a few magical objects that will be useful in fighting the dragon. They have to save the princess and slay the dragon.
- But, the princes need to be very careful as they pass each checkpoint and collect each magical object.
- Because only the right combination of magical things can save the princess and fight the dragon, even one mistake in selecting the items will prove to be of no use in battle against the dragon. 
-******************************
- Player entered HALO for the information
- Player entered SDCSC for the information and got a message to renterPlayer entered objects to look at the information
-Player entered OBJECTSSS to look at the information and got renter message
-player entred info for TREMATONPlayer entered castle to look at the information
-Player entered CASTLDS to look at the information and got renter message
-
-Player exited the game
-NEW GAME STARTS for varma, Prince of norwich who has hero as his strengths 
-
-varma started the game by entering START
- Player Name:varma 
-Kingdom:norwich 
- Strengths:hero 
-
-*****************STORY LINE **************
- ​Diana, Princess of Warkworth, is a beautiful girl with such beauty which could be matched only by Aphrodite.
- She is sweet and lovely and is loved by everyone in the kingdom. Her father, King Aslan, is so much attached to her.
- One day when the princess is going to bed, an evil dragon, Smaug, attacked the kingdom and abducted her.
- The dragon took her to a dark castle, Tremato​n and locked her up. The dragon wants to kill the princess during the day of the blue moon, which gives the dragon powers to give life to other dragons.
- If this happens then, that will be the end of humanity. To get her daughter back and save the world, King Aslan chooses princes from various kingdoms.
- The task of the princes is to collect a few magical objects that will be useful in fighting the dragon. They have to save the princess and slay the dragon.
- But, the princes need to be very careful as they pass each checkpoint and collect each magical object.
- Because only the right combination of magical things can save the princess and fight the dragon, even one mistake in selecting the items will prove to be of no use in battle against the dragon. 
-******************************Player enetred SMAUG for getting informationPlayer enetred SD for getting information and got a retry messagePlayer entered characters to look at the information
 Player entered HALO at CONWY
-Player entered EXCALIBAR at BODIUM
-Player entered MAGIC ROPE at AYLSHAM
- Player Name:varma 
-Kingdom:norwich 
- Strengths:hero 
+Player entered PRIDWEN at BODIUM
+Player entered FLYING SHOES at AYLSHAM
+ Player Name:dsfsdv 
+Kingdom:sdvfsdv 
+ Strengths:sdfvgfd 
 
 FINAL SHOWDOWN STARTS
 
-VARMA selected EXCALIBAR at Aylsham, FLYING SHOES at Bodium and HALO at Conwy to slay the dragon and save the Princess Player scored 0 (Player needs 3 for winning the game)
-varma, Prince of norwich used EXCALIBAR to make the princess escape with the rope.
- While, the princess was escaping he used HALO to stop the dragon from confroanting as it emitted immense light that blinded the dragon
-. When the princess escaped and hided in a safe location varma used FLYING SHOES to pierce the dragons body and kill it
-HAPPY ENDING
+DSFSDV selected HALO at Aylsham, PRIDWEN at Bodium and FLYING SHOES at Conwy to slay the dragon and save the Princess Player scored 0 (Player needs 3 for winning the game)
+dsfsdv, Prince of sdvfsdv lost the battle with the dragon and couldnt save the princess. Long Live Humanity. We lost the battle
+SAD ENDING
 
+Varma started the game by entering START
+ Player Name:Varma 
+Kingdom:Kingdom 
+ Strengths:Strengths 
+
+*****************STORY LINE **************
+ ​Diana, Princess of Warkworth, is a beautiful girl with such beauty which could be matched only by Aphrodite.
+ She is sweet and lovely and is loved by everyone in the kingdom. Her father, King Aslan, is so much attached to her.
+ One day when the princess is going to bed, an evil dragon, Smaug, attacked the kingdom and abducted her.
+ The dragon took her to a dark castle, Tremato​n and locked her up. The dragon wants to kill the princess during the day of the blue moon, which gives the dragon powers to give life to other dragons.
+ If this happens then, that will be the end of humanity. To get her daughter back and save the world, King Aslan chooses princes from various kingdoms.
+ The task of the princes is to collect a few magical objects that will be useful in fighting the dragon. They have to save the princess and slay the dragon.
+ But, the princes need to be very careful as they pass each checkpoint and collect each magical object.
+ Because only the right combination of magical things can save the princess and fight the dragon, even one mistake in selecting the items will prove to be of no use in battle against the dragon. 
+******************************
+Player entered HALO at CONWY
+Player entered PRIDWEN at BODIUM
 Player entered FLYING SHOES at AYLSHAM
-Player entered INFODS for information and got a renter message
+ Player Name:Varma 
+Kingdom:Kingdom 
+ Strengths:Strengths 
+
+FINAL SHOWDOWN STARTS
+
+VARMA selected FLYING SHOES at Aylsham, HALO at Bodium and PRIDWEN at Conwy to slay the dragon and save the Princess Player scored 0 (Player needs 3 for winning the game)
+Varma, Prince of Kingdom lost the battle with the dragon and couldnt save the princess. Long Live Humanity. We lost the battle
+SAD ENDING
+
+Varma started the game by entering START
+ Player Name:Varma 
+Kingdom:Kingdom 
+ Strengths:Strengths 
+
+*****************STORY LINE **************
+ ​Diana, Princess of Warkworth, is a beautiful girl with such beauty which could be matched only by Aphrodite.
+ She is sweet and lovely and is loved by everyone in the kingdom. Her father, King Aslan, is so much attached to her.
+ One day when the princess is going to bed, an evil dragon, Smaug, attacked the kingdom and abducted her.
+ The dragon took her to a dark castle, Tremato​n and locked her up. The dragon wants to kill the princess during the day of the blue moon, which gives the dragon powers to give life to other dragons.
+ If this happens then, that will be the end of humanity. To get her daughter back and save the world, King Aslan chooses princes from various kingdoms.
+ The task of the princes is to collect a few magical objects that will be useful in fighting the dragon. They have to save the princess and slay the dragon.
+ But, the princes need to be very careful as they pass each checkpoint and collect each magical object.
+ Because only the right combination of magical things can save the princess and fight the dragon, even one mistake in selecting the items will prove to be of no use in battle against the dragon. 
+******************************
+Player entered HALO at CONWY
+Player entered PRIDWEN at BODIUM
+Player entered FLYING SHOES at AYLSHAM
+ Player Name:Varma 
+Kingdom:Kingdom 
+ Strengths:Strengths 
+
+FINAL SHOWDOWN STARTS
+
+VARMA selected PRIDWEN at Aylsham, HALO at Bodium and FLYING SHOES at Conwy to slay the dragon and save the Princess Player scored 0 (Player needs 3 for winning the game)
+Varma, Prince of Kingdom lost the battle with the dragon and couldnt save the princess. Long Live Humanity. We lost the battle
+SAD ENDING

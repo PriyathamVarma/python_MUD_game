@@ -21,14 +21,12 @@ def Game(name,kingdom,Strengths):
     final_fight = FinalShowDown(name,kingdom,Strengths)
     final_fight.fight()
     f.close()
-    exit()
-    
 
 
   # If the user exits the game with exit
   elif start_game == 'EXIT':
     from new import new
-    print(f'\033[1;32m **** {name} exited the game ****')
+    """print(f'\033[1;32m **** {name} exited the game ****')"""
     f = open("game_play.txt", "a")
     f.write(f'\n **** {name} exited the game **** \n')
     f.close()

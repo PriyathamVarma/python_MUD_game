@@ -46,5 +46,8 @@ class FinalShowDown(CharacterCreation):
           from new import new
           new()
         else:
-          print("GAME OVER")
+          try:
+            print("GAME OVER")
+          except AssertionError:
+            print("Assertion error found")  
       fileOpen.close()  
