@@ -1,7 +1,6 @@
 # This is the main python file which starts the game
 # IMPORTS
 
-from typing import ValuesView
 from Game import Game
 
 def CharacterFeatures():
