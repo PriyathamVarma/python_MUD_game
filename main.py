@@ -6,7 +6,7 @@ from Game import Game
 
 def CharacterFeatures():
   global name,kingdom,Strengths
-  print('\033[1;35m ******** Create your prince charcter ********')
+  print('\033[1;35m ******** Create your prince character ********')
   name = input('*** Enter your name ***: ')
   kingdom = input('*** Enter your kingdoms name ***: ')
   Strengths = input('*** Enter your strengths ***: ')

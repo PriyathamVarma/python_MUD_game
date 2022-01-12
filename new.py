@@ -10,13 +10,13 @@ def CharacterFeatures():
 def new():
     try:
       # to avoid circular imports
+        print("****** NEW GAME ******")
         from Game import Game
         f = open("game_play.txt", "a")
         CharacterFeatures()
         f.write(f"\nPlayer exited the game")
         f.write(f"\nNEW GAME STARTS for {name}, Prince of {kingdom} who has {Strengths} as his strengths \n")
         f.close()
-        selected_weapons_list = []
         Game(name,kingdom,Strengths)
         
     except NameError:

@@ -13,7 +13,7 @@ castle_3_weapons_list = ['HALO' , 'FAIL NOT' , 'TALYN HARP']
 global selected_weapons_list,weapon_1_selected,weapon_2_selected,weapon_3_selected
 selected_weapons_list = []
 
-def castle_1_weapon_selection(name,kingdom,Strengths):
+def castle_1_weapon_selection(name,kingdom,Strengths): 
     weapon_1_selected = input('*** Select any weapon(Flying Shoes or Flaring Sword or Magic Rope) from Aylsham that you want to fight with the dragon (HINT: Enter info or EXIT) ***:').upper()
     with open("game_play.txt","a") as fileOpen:
       # if condition for selecting weapon in castle 1
@@ -63,7 +63,6 @@ def castle_3_weapon_selection(name,kingdom,Strengths):
         fileOpen.write(f"\nPlayer entered {weapon_3_selected} at CONWY")
         print(f'\033[1;32m {name} selected {weapon_3_selected} at CONWY')
         selected_weapons_list.append(weapon_3_selected) 
-        print(selected_weapons_list)
       elif weapon_3_selected == 'INFO':
         info()
         castle_3_weapon_selection(name,kingdom,Strengths)
