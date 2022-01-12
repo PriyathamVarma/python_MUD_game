@@ -1,8 +1,8 @@
-GAME STARTS for dsfsdv, Prince of sdvfsdv who has sdfvgfd as his strengths
-dsfsdv started the game by entering START
- Player Name:dsfsdv 
-Kingdom:sdvfsdv 
- Strengths:sdfvgfd 
+GAME STARTS for vama, Prince of varma who has var as his strengths
+vama started the game by entering START
+ Player Name:vama 
+Kingdom:varma 
+ Strengths:var 
 
 *****************STORY LINE **************
  ​Diana, Princess of Warkworth, is a beautiful girl with such beauty which could be matched only by Aphrodite.
@@ -16,21 +16,18 @@ Kingdom:sdvfsdv
 ******************************
 Player entered HALO at CONWY
 Player entered PRIDWEN at BODIUM
-Player entered FLYING SHOES at AYLSHAM
- Player Name:dsfsdv 
-Kingdom:sdvfsdv 
- Strengths:sdfvgfd 
+Player entered MAGIC ROPE at AYLSHAM
+ Player Name:vama 
+Kingdom:varma 
+ Strengths:var 
 
-FINAL SHOWDOWN STARTS
+Player exited the game
+NEW GAME STARTS for g, Prince of s who has s as his strengths 
 
-DSFSDV selected HALO at Aylsham, PRIDWEN at Bodium and FLYING SHOES at Conwy to slay the dragon and save the Princess Player scored 0 (Player needs 3 for winning the game)
-dsfsdv, Prince of sdvfsdv lost the battle with the dragon and couldnt save the princess. Long Live Humanity. We lost the battle
-SAD ENDING
-
-Varma started the game by entering START
- Player Name:Varma 
-Kingdom:Kingdom 
- Strengths:Strengths 
+g started the game by entering START
+ Player Name:g 
+Kingdom:s 
+ Strengths:s 
 
 *****************STORY LINE **************
  ​Diana, Princess of Warkworth, is a beautiful girl with such beauty which could be matched only by Aphrodite.
@@ -43,63 +40,13 @@ Kingdom:Kingdom
  Because only the right combination of magical things can save the princess and fight the dragon, even one mistake in selecting the items will prove to be of no use in battle against the dragon. 
 ******************************
 Player entered HALO at CONWY
-Player entered PRIDWEN at BODIUM
-Player entered FLYING SHOES at AYLSHAM
- Player Name:Varma 
-Kingdom:Kingdom 
- Strengths:Strengths 
+Player entered EXCALIBAR at BODIUM
+Player entered MAGIC ROPE at AYLSHAM
+ Player Name:g 
+Kingdom:s 
+ Strengths:s 
 
-FINAL SHOWDOWN STARTS
-
-VARMA selected FLYING SHOES at Aylsham, HALO at Bodium and PRIDWEN at Conwy to slay the dragon and save the Princess Player scored 0 (Player needs 3 for winning the game)
-Varma, Prince of Kingdom lost the battle with the dragon and couldnt save the princess. Long Live Humanity. We lost the battle
-SAD ENDING
-
-Varma started the game by entering START
- Player Name:Varma 
-Kingdom:Kingdom 
- Strengths:Strengths 
-
-*****************STORY LINE **************
- ​Diana, Princess of Warkworth, is a beautiful girl with such beauty which could be matched only by Aphrodite.
- She is sweet and lovely and is loved by everyone in the kingdom. Her father, King Aslan, is so much attached to her.
- One day when the princess is going to bed, an evil dragon, Smaug, attacked the kingdom and abducted her.
- The dragon took her to a dark castle, Tremato​n and locked her up. The dragon wants to kill the princess during the day of the blue moon, which gives the dragon powers to give life to other dragons.
- If this happens then, that will be the end of humanity. To get her daughter back and save the world, King Aslan chooses princes from various kingdoms.
- The task of the princes is to collect a few magical objects that will be useful in fighting the dragon. They have to save the princess and slay the dragon.
- But, the princes need to be very careful as they pass each checkpoint and collect each magical object.
- Because only the right combination of magical things can save the princess and fight the dragon, even one mistake in selecting the items will prove to be of no use in battle against the dragon. 
-******************************
-Player entered HALO at CONWY
-Player entered PRIDWEN at BODIUM
-Player entered FLYING SHOES at AYLSHAM
- Player Name:Varma 
-Kingdom:Kingdom 
- Strengths:Strengths 
-
-FINAL SHOWDOWN STARTS
-
-VARMA selected PRIDWEN at Aylsham, HALO at Bodium and FLYING SHOES at Conwy to slay the dragon and save the Princess Player scored 0 (Player needs 3 for winning the game)
-Varma, Prince of Kingdom lost the battle with the dragon and couldnt save the princess. Long Live Humanity. We lost the battle
-SAD ENDING
-
- Player Name:varma 
-Kingdom:kings 
- Strengths:kings 
-
-*****************STORY LINE **************
- ​Diana, Princess of Warkworth, is a beautiful girl with such beauty which could be matched only by Aphrodite.
- She is sweet and lovely and is loved by everyone in the kingdom. Her father, King Aslan, is so much attached to her.
- One day when the princess is going to bed, an evil dragon, Smaug, attacked the kingdom and abducted her.
- The dragon took her to a dark castle, Tremato​n and locked her up. The dragon wants to kill the princess during the day of the blue moon, which gives the dragon powers to give life to other dragons.
- If this happens then, that will be the end of humanity. To get her daughter back and save the world, King Aslan chooses princes from various kingdoms.
- The task of the princes is to collect a few magical objects that will be useful in fighting the dragon. They have to save the princess and slay the dragon.
- But, the princes need to be very careful as they pass each checkpoint and collect each magical object.
- Because only the right combination of magical things can save the princess and fight the dragon, even one mistake in selecting the items will prove to be of no use in battle against the dragon. 
-******************************
-Player entered HALO at CONWY
-Player entered PRIDWEN at BODIUM
-Player entered FLYING SHOES at AYLSHAM
-Player entered HALO at CONWY
-Player entered PRIDWEN at BODIUM
-Player entered HALO at CONWY
+g, Prince of s used MAGIC ROPE to make the princess escape with the rope.
+ While, the princess was escaping he used HALO to stop the dragon from confroanting as it emitted immense light that blinded the dragon
+. When the princess escaped and hided in a safe location g used EXCALIBAR to pierce the dragons body and kill it
+HAPPY ENDING

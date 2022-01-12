@@ -17,7 +17,6 @@ def Game(name,kingdom,Strengths):
     f = open("game_play.txt", "a")
     castle_1_weapon_selection(name,kingdom,Strengths)# Iterations for other weapon selections are done here
     print(f'\033[1;32m {name.upper()} selected {selected_weapons_list[0]} at Aylsham, {selected_weapons_list[1]} at Bodium and {selected_weapons_list[2]} at Conwy to slay the dragon and save the Princess')
- 
     final_fight = FinalShowDown(name,kingdom,Strengths)
     final_fight.fight()
     f.close()

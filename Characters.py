@@ -10,6 +10,8 @@ def characters():
       fileOpen.write(f"Player enetred {characters_information} for getting information")
       print('\033[1;35m Diana, beautiful princess of warkworth kingdom. Calm, beautiful and cheerful girl.')
     elif characters_information == 'SMAUG':
+      f = open("assets/characters/smaug.txt","r")
+      print(f.read())
       fileOpen.write(f"Player enetred {characters_information} for getting information")
       print('\033[1;35m Smaug, malifiecient dragon who wants to kill all humanity and rule the world with dragons.\n **** STRENGHTS ****: Capable of emitting fire from all sides, Can smell all living beings,Can withstand extreme weather conditions, can fly to any height and swim into any depth.\n **** WEAKNESS **** : Light, Music and Rats')
     else:

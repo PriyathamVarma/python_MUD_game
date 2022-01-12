@@ -32,11 +32,11 @@ class TestMain(unittest.TestCase):
         self.assertTrue(objects) 
     # test for castle weapons selection
     def test_castle1(self):
-        self.assertTrue(castle_1_weapon_selection("name","kingdom","Strengths")) 
+        self.assertTrue(castle_1_weapon_selection) 
     def test_castle2(self):
-        self.assertTrue(castle_2_weapon_selection("name","kingdom","Strengths"))
+        self.assertTrue(castle_2_weapon_selection)
     def test_castle3(self):
-        self.assertTrue(castle_3_weapon_selection("name","kingdom","Strengths"))      
+        self.assertTrue(castle_3_weapon_selection)      
 
 
         

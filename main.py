@@ -12,6 +12,8 @@ def CharacterFeatures():
   Strengths = input('*** Enter your strengths ***: ')
 
 def start():
+    f = open("assets/castle.txt","r")
+    print(f.read())
     f = open("game_play.txt", "w")
     CharacterFeatures()
     f.write(f"GAME STARTS for {name}, Prince of {kingdom} who has {Strengths} as his strengths")
