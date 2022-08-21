@@ -1,19 +1,16 @@
-# This is the main python file which starts the game
-# IMPORTS
+# The file to start the journey
 
-from Game import Game
+from Journey import Game
 
-def CharacterFeatures():
+def traits():
   global name,country,Strengths
-  print('\033[1;35m ******** Create your prince character ********')
-  name = input('*** Enter your name ***: ')
-  country = input('*** Enter your kingdoms name ***: ')
-  Strengths = input('*** Enter your strengths ***: ')
+  name = input('Name : ')
+  country = input('Country : ')
+  Strengths = input('Strengths : ')
 
 def start():
 
-    CharacterFeatures()
-    
+    traits()   
     Game(name,country,Strengths)
 
 

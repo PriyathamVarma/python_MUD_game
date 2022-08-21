@@ -2,7 +2,7 @@
 from Castles import *
 from Objects import *
 from Play import *
-from Game import *
+from Journey import *
 from info import info
 from new import new
 
@@ -13,7 +13,7 @@ castle_3_weapons_list = ['HALO' , 'FAIL NOT' , 'TALYN HARP']
 global selected_weapons_list,weapon_1_selected,weapon_2_selected,weapon_3_selected
 selected_weapons_list = []
 
-def castle_1_weapon_selection(name,kingdom,Strengths): 
+def castle_1_weapon_selection(name,country,Strengths): 
     weapon_1_selected = input('*** Select any weapon(Flying Shoes or Flaring Sword or Magic Rope) from Aylsham that you want to fight with the dragon (HINT: Enter info or EXIT) ***:').upper()
     with open("game_play.txt","a") as fileOpen:
       # if condition for selecting weapon in castle 1
@@ -21,17 +21,17 @@ def castle_1_weapon_selection(name,kingdom,Strengths):
         fileOpen.write(f"\nPlayer entered {weapon_1_selected} at AYLSHAM")
         print(f'\033[1;32m {name} selected {weapon_1_selected} at AYLSHAM') 
         selected_weapons_list.append(weapon_1_selected)
-        castle_2_weapon_selection(name,kingdom,Strengths)
+        castle_2_weapon_selection(name,country,Strengths)
       elif weapon_1_selected == 'INFO':
         info()  
-        castle_1_weapon_selection(name,kingdom,Strengths)
+        castle_1_weapon_selection(name,country,Strengths)
       elif weapon_1_selected == 'EXIT':
         print("Player exited the game")
         new()     
       else:
         fileOpen.write(f"\nPlayer entered {weapon_1_selected} for information and got a renter message")
-        print(f'\033[1;31m Enter the name correctly, hurry up the princess is in danger {name}, Prince of {kingdom}')  
-        castle_1_weapon_selection(name,kingdom,Strengths)
+        print(f'\033[1;31m Enter the name correctly, hurry up the princess is in danger {name}, Prince of {country}')  
+        castle_1_weapon_selection(name,country,Strengths)
       fileOpen.close()  
 
 def castle_2_weapon_selection(name,kingdom,Strengths):
