@@ -1,10 +1,10 @@
 # This is the main python file which starts the new game
 
 def CharacterFeatures():
-  global name,kingdom,Strengths
+  global name,country,Strengths
   print('\033[1;35m ******** Create your prince charcter ********')
   name = input('*** Enter your name ***: ')
-  kingdom = input('*** Enter your kingdoms name ***: ')
+  country = input('*** Enter your country name ***: ')
   Strengths = input('*** Enter your strengths ***: ')
 
 def new():
@@ -15,9 +15,9 @@ def new():
         f = open("game_play.txt", "a")
         CharacterFeatures()
         f.write(f"\nPlayer exited the game")
-        f.write(f"\nNEW GAME STARTS for {name}, Prince of {kingdom} who has {Strengths} as his strengths \n")
+        f.write(f"\nNEW GAME STARTS for {name}, Prince of {country} who has {Strengths} as his strengths \n")
         f.close()
-        Game(name,kingdom,Strengths)
+        Game(name,country,Strengths)
         
     except NameError:
         print("We already expected this error mate")    

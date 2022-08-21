@@ -3,7 +3,7 @@ from Castles_Weapons_Selection import *
 from FinalShowDown import FinalShowDown
 
 
-def Game(name,kingdom,Strengths):
+def Game(name,country,Strengths):
 
   start_game = input("*** Press 'START' to start the play or 'EXIT' to exit the game: ***").upper()
   f = open("game_play.txt", "a")
@@ -13,11 +13,11 @@ def Game(name,kingdom,Strengths):
   # If the user starts the game with start
   if start_game == 'START':
 
-    player_play = Play(name,kingdom,Strengths) # goes to player class
+    player_play = Play(name,country,Strengths) # goes to player class
     f = open("game_play.txt", "a")
-    castle_1_weapon_selection(name,kingdom,Strengths)# Iterations for other weapon selections are done here
+    castle_1_weapon_selection(name,country,Strengths)# Iterations for other weapon selections are done here
     print(f'\033[1;32m {name.upper()} selected {selected_weapons_list[0]} at Aylsham, {selected_weapons_list[1]} at Bodium and {selected_weapons_list[2]} at Conwy to slay the dragon and save the Princess')
-    final_fight = FinalShowDown(name,kingdom,Strengths)
+    final_fight = FinalShowDown(name,country,Strengths)
     final_fight.fight()
     f.close()
 
@@ -36,4 +36,4 @@ def Game(name,kingdom,Strengths):
     f = open("game_play.txt", "a")
     f.write('\{name} got a message as Please press START and nothing else. Remember we are still in infancy stage and this is not a high end game :) :) :)')
     f.close()
-    Game(name,kingdom,Strengths) 
+    Game(name,country,Strengths) 
