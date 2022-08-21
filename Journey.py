@@ -14,26 +14,14 @@ def Game(name,country,Strengths):
   if start_game == 'START':
 
     player_play = Play(name,country,Strengths) # goes to player class
-    f = open("game_play.txt", "a")
-    castle_1_weapon_selection(name,country,Strengths)# Iterations for other weapon selections are done here
-    print(f'\033[1;32m {name.upper()} selected {selected_weapons_list[0]} at Aylsham, {selected_weapons_list[1]} at Bodium and {selected_weapons_list[2]} at Conwy to slay the dragon and save the Princess')
+    box_1_answers_selection(name,country,Strengths)# Iterations for other weapon selections are done here
     final_fight = FinalShowDown(name,country,Strengths)
     final_fight.fight()
-    f.close()
-
 
   # If the user exits the game with exit
   elif start_game == 'EXIT':
     from new import new
-    """print(f'\033[1;32m **** {name} exited the game ****')"""
-    f = open("game_play.txt", "a")
-    f.write(f'\n **** {name} exited the game **** \n')
-    f.close()
     new()
   # If the user inputs other text 
   else:
-    print('\033[1;31m Please press START and nothing else. Remember we are still in infancy stage and this is not a high end game :) :) :)')
-    f = open("game_play.txt", "a")
-    f.write('\{name} got a message as Please press START and nothing else. Remember we are still in infancy stage and this is not a high end game :) :) :)')
-    f.close()
     Game(name,country,Strengths) 
