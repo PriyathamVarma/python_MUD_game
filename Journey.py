@@ -1,14 +1,11 @@
 from Play import Play
-from Castles_Weapons_Selection import *
+from correct_answers import *
 from FinalShowDown import FinalShowDown
 
 
 def Game(name,country,Strengths):
 
   start_game = input("*** Press 'START' to start the play or 'EXIT' to exit the game: ***").upper()
-  f = open("game_play.txt", "a")
-  f.write(f'\n{name} started the game by entering {start_game}')
-  f.close()
 
   # If the user starts the game with start
   if start_game == 'START':
